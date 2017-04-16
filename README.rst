@@ -345,6 +345,24 @@ Estaciones mas populares
 
     n
 
+
+En esta primera imagen se puede ver que claramente San Francisco es la ciudad con mas estaciones populares (y viajes), seguida de San Jose, Palo Alto y Redwood City. Coincide con la tabla ubicada mas arriba
+
+.. image:: images/heatmap-ciudades.png
+
+En la siguientes imagenes podemos ver las estaciones mas populares:
+
+- San Francisco Caltrain
+- San Francisco Caltrain2
+- Harry Bridges Plaza
+- Embarcadero at Sansome 
+- 2nd at Townsend
+
+.. image:: images/heatmap-SanFrancisco-Nombres.png
+
+.. image:: images/heatmap-SanFranciscoCaltrain.png
+
+
 Estaciones mas populares en San Jose
 ------------------------------------
 
@@ -438,5 +456,5 @@ Estaciones mas populares en San Jose
     </table>
     </div>
 
-
+.. image:: images/heatmap-SanJose-Nombres.png
 
